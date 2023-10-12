@@ -4,4 +4,4 @@ title: Hello World
 slug: /
 ---
 
-Hello World from next version!
+Hello World!

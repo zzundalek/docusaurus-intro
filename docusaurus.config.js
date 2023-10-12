@@ -74,6 +74,11 @@ const config = {
             label: 'Tutorial',
           },
           {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            dropdownActiveClassDisabled: true,
+          },
+          {
             type: 'localeDropdown',
             position: 'right'
           },
